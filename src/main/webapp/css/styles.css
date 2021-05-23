@@ -3,6 +3,10 @@
     The file is included in the genericpage.tag template
  */
 
+.header {
+background-image:url("images/webheader.jpg");
+}
+
 #topmenu_login_dialogue
 {
     font-size: smaller;
