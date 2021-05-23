@@ -17,12 +17,12 @@
     <link rel="stylesheet" href="<%=request.getContextPath()%>/css/styles.css">
     <meta name="theme-color" content="#7952b3">
 </head>
-<body>
+<body style="background-image:url('https://wallpaperset.com/w/full/7/a/b/70196.jpg')">
     <!--
         This header is inspired by this bootstrap
         example: https://getbootstrap.com/docs/5.0/examples/pricing/
     -->
-<header class="d-flex flex-column flex-md-row align-items-center p-3 pb-0 px-md-4 mb-4 bg-white border-bottom shadow-sm">
+<header style="background-image:url('https://www.busticket2.com/wp-content/uploads/2017/10/header-main-bg.jpg.png');background-repeat: no-repeat;background-attachment: fixed;background-size: cover;background-size: 100% 100%;" class="d-flex flex-column flex-md-row align-items-center p-3 pb-0 px-md-4 mb-4 bg-white border-bottom shadow-sm">
     <div class="h5 my-0 me-md-auto fw-normal">
         <p>Demo Project for DAT 2. semester</p>
         <p style="font-size: larger">
